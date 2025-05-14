@@ -3972,5 +3972,5 @@ input, select, textarea {
 }
 
 .link-label:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
