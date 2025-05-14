@@ -3950,27 +3950,5 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
-.icons-horizontal {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
 
-.icons-horizontal li {
-  display: flex;
-  align-items: center;
-  gap: 0.5em;
-  margin-bottom: 1em;
-  list-style: none; /* remove os marcadores (bolinhas) */
-  flex-wrap: wrap;
-}
-
-.link-label {
-  font-size: 1.1em;
-  text-decoration: none;
-  color: inherit;
-}
-
-.link-label:hover {
-  text-decoration: none;
 }
